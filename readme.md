@@ -67,7 +67,7 @@ ohouse/
    adb devices
    ```
 
-   예시:
+   예시
 
    ```text
    List of devices attached
@@ -193,7 +193,7 @@ npx tsx tests/login-pass-test.ts
 6. `EmailLoginPage.ensureLoginFailTooltipShown(5000)` 으로 툴팁 노출 대기
 7. 툴팁 검증 성공 시 `로그인 실패 시 툴팁 노출 테스트 통과` 로그 출력
 
-**실행 예:**
+**실행 예**
 
 ```bash
 npx tsx tests/login-fail-test.ts
@@ -222,4 +222,4 @@ npx tsx tests/login-fail-test.ts
 
 ## License
 
-이 프로젝트는 과제/학습 목적으로 작성되었습니다.
+이 프로젝트는 과제 목적으로 작성되었습니다.
