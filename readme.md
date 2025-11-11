@@ -138,7 +138,7 @@ cp .env.sample .env
 
 ## 5. ADB 및 오늘의집 앱 설치 확인
 
-1. 에뮬레이터가 켜진 상태에서:
+1. 에뮬레이터가 켜진 상태에서
 
    ```bash
    adb devices
